@@ -5,7 +5,7 @@
 
 ## Who am I
 
-Android / IOS Application Developer
+Mobile App Developer for 2 years (Android/iOS)
 
 ----
 
