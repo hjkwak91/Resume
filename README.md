@@ -63,10 +63,15 @@ Android / IOS Application Developer
 
 ## Courses
 * 04,09,2017 - 25,09, 2017 : [KIPFA](http://www.kipfa.or.kr/)
-    -  [UX Director](http://www.kipfa.or.kr/Education/EduCenter/EduCenterView.aspx?eduSeqNo=995)
+    -  [UX Director](http://www.kipfa.or.kr/Education/EduCenter/EduCenterView.aspx?eduSeqNo=995) 
+        1. Understand How Users Interact with your product.
+        2. learn how to research a UX project, how to create wireframes, how to build user profiles & personas and so on.
+
 
 * 05,07,2017 - 07,07,2017 : [KISA Academy](https://academy.kisa.or.kr/main.kisa) 
     - [[K-Shield Basic] Mobile Security Treats](https://academy.kisa.or.kr/edu/apply_detail.kisa?SQ=6869#)
+        - Learn What is Key for mobile security.
+        - Learn how to treat the mobile attacks by using K-Shield training contents. (Mobile payment terminal attacks, cracking scenarios in mobile application-android)
     
 
 
@@ -94,18 +99,19 @@ Android / IOS Application Developer
 - C/C++ (Basic)
 - PHP (Intermediate)
 
-### Backend
+### Web
 - REST API (Intermediate)
+- Slim-php(Basic)
 - AWS (Basic)
 - Docker (Basic)
 - MySQL (Intermediate)
 - Redis (Basic)
 
 ### Etc
-- Media Codec/Protocol(FFmpeg, RTMP, HLS)
-- Git, Gitlab-Ci
-- Fabric
-- Firebase(FCM)
+- Media Codec/Protocol: FFmpeg, RTMP, HLS
+- Git, Gitlab-Ci, Jenkins(with docker)
+- Fabric / firebase crashlytics
+- FCM
 - Kibana, Elasticsearch
 - Bug Tracking System(Mantis), Test Management System(Spira)
 
@@ -118,9 +124,5 @@ Android / IOS Application Developer
 - 09, 2011 - 12, 2011 & 09, 2012 - 12, 2012 : ITS program(Korea University Global Program) 
 
 ----
-
-<!-- ## Etc
-* [Today I Learned](https://til.chann.kr) - Deprecated Temporarily
-* [Personal Dev Wiki](https://wiki.chann.kr) - Deprecated Temporarily -->
 
 For more information, Contact me on <a href="mailto:hjkwak91@gmail.com">![Email](https://img.shields.io/badge/email-hjkwak91@gmail.com-ea4335.svg)</a>
