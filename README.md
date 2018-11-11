@@ -36,6 +36,10 @@ Mobile App Developer for 2 years (Android/iOS)
 
     iOS Application for downloading and playing video files. You can play and download the video file and management the files. 
 
+ - YESFILE/APPLEFILE SHORTCUT APP: Android (Contributed 100%)
+
+    Android Application for Web shortcut which have player for on-demend mp4 streaming. app in onestore has fuction for in-app purcahse.(in PlayStore/ Onestore)
+
 ## Education
 ### Degree
 - Korea University (2010.03 ~ 2017.02)
