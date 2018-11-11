@@ -64,13 +64,13 @@ Android / IOS Application Developer
 ## Courses
 * 04,09,2017 - 25,09, 2017 : [KIPFA](http://www.kipfa.or.kr/)
     -  [UX Director](http://www.kipfa.or.kr/Education/EduCenter/EduCenterView.aspx?eduSeqNo=995) 
-        1. Understand How Users Interact with your product.
-        2. learn how to research a UX project, how to create wireframes, how to build user profiles & personas and so on.
+        - Understand how users interact with your product.
+        - Learn how to research a UX project, how to create wireframes, how to build user profiles & personas and so on.
 
 
 * 05,07,2017 - 07,07,2017 : [KISA Academy](https://academy.kisa.or.kr/main.kisa) 
     - [[K-Shield Basic] Mobile Security Treats](https://academy.kisa.or.kr/edu/apply_detail.kisa?SQ=6869#)
-        - Understand What is Key point for mobile security.
+        - Understand what is key point for mobile security.
         - Learn how to treat the mobile attacks by using K-Shield training contents. (Mobile payment terminal attacks, cracking scenarios in mobile application-android)
     
 
