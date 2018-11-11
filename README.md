@@ -70,7 +70,7 @@ Android / IOS Application Developer
 
 * 05,07,2017 - 07,07,2017 : [KISA Academy](https://academy.kisa.or.kr/main.kisa) 
     - [[K-Shield Basic] Mobile Security Treats](https://academy.kisa.or.kr/edu/apply_detail.kisa?SQ=6869#)
-        - Learn What is Key for mobile security.
+        - Understand What is Key point for mobile security.
         - Learn how to treat the mobile attacks by using K-Shield training contents. (Mobile payment terminal attacks, cracking scenarios in mobile application-android)
     
 
