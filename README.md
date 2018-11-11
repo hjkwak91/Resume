@@ -119,9 +119,9 @@ Android / IOS Application Developer
 ----
 
 ## Activity
-- 05, 2012 - Present : Volunteer, Korea National Park (435h)
-- 06, 2013 - 07, 2013 : Boy Scout of America, Quapaw Area Council, Arkansas, Camp Rockefeller (International camp staff) Camp Counselor of Summer camp.
-- 09, 2011 - 12, 2011 & 09, 2012 - 12, 2012 : ITS program(Korea University Global Program) 
+- 05, 2012 - Present : [Korea National Park](https://volunteer.knps.or.kr/main.action) (Volunteer - 435h)
+- 06, 2013 - 07, 2013 : [Boy Scout of America, Quapaw Area Council, Arkansas, Camp Rockefeller](http://www.quapawbsa.org/camp/) (International camp staff - Camp Counselor of Summer camp)
+- 09, 2011 - 12, 2011 & 09, 2012 - 12, 2012 : [ITS program](http://sejong.korea.ac.kr/academics/exchange/its) (Korea University Global Program) 
 
 ----
 
