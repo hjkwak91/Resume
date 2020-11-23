@@ -18,7 +18,18 @@ Mobile App Developer for 2 years (Android/iOS)
 ----
 
 ## Experience
-- 01, 2017 - Present : [Bankmedia Inc.](https://bankmedia.co.kr/)(Seoul, South Korea / Mobile Application Developer)
+- 01, 2017 - Present : [GE Appliances, a Haier Company](https://www.geappliances.com)(Pangyo, South Korea / Software Engineer - Mobile)
+   - Reskinning / Redesigning the whole cafe app
+   - Applying MVP, MVVM pattern
+   - Converting Java project to Kotlin
+
+    * 1B Appstore Facilitator
+
+    * 1B Korea Hackathon
+       - Won 2nd prize for the second
+       - Won 3rd prize for the third
+
+- 01, 2017 - 01-2019 : [Bankmedia Inc.](https://bankmedia.co.kr/)(Seoul, South Korea / Mobile Application Developer)
     - Developed both of Android and iOS applications which has 200K monthly active users. Built app for downloading and playing video. Converted Objective-C project to Swift.
     
 - 09, 2014 - 11, 2014 : [Croatia Motorways Company(HAC)](http://hac.hr/en)(Zagreb, Croatia / Intern)
