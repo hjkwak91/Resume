@@ -1,11 +1,20 @@
-# Hyojin Kwak ![Job](https://img.shields.io/badge/looking__for__job-true-09b500.svg)
+# Hyojin Kitty Kwak ![Job](https://img.shields.io/badge/looking__for__job-true-09b500.svg)
 
 <a href="mailto:hjkwak91@gmail.com">![Email](https://img.shields.io/badge/email-hjkwak91@gmail.com-303030.svg)</a>
 <a href="https://www.linkedin.com/in/hyojin-kwak-82b95510b/">![Linkedin](https://img.shields.io/badge/linkedin-HyojinKwak-0077b5.svg)</a>
 
 ## Who am I
 
-Mobile App Developer for 2 years (Android/iOS)
+MMobile Application Developer.
+I enjoy learning by experimenting a new technology and solving problems. I like to challenge myself to improve at everything I do.
+
+Experience
+4 years in Mobile application(Android main/ iOS)
+
+Preferred Skill
+Architecture: MVP, MVVM for Android 
+CI/CD: Test, Report, Deploy Integration - Jenkins
+Language: Kotlin/ Java / Swift / Flutter / Objective C
 
 ----
 
@@ -13,24 +22,31 @@ Mobile App Developer for 2 years (Android/iOS)
 * **Name** : Hyojin Kwak
 * **Language** : 
     - Korean (Native)
-    - English (Intermediate)  TOEIC 885
+    - English (Professional working proficiency) 
 
 ----
 
 ## Experience
 - 01, 2017 - Present : [GE Appliances, a Haier Company](https://www.geappliances.com)(Pangyo, South Korea / Software Engineer - Mobile)
-   - Reskinning / Redesigning the whole cafe app
-   - Applying MVP, MVVM pattern
-   - Converting Java project to Kotlin
+    * Developing Android application, Cafe Home/SmartHQ App to control and Manage the connected GE Appliances.
+        - Reskinning / Redesigning the whole cafe app
+        - Applying MVP, MVVM pattern
+        - Converting Java project to Kotlin
+        - Add new Appliances control features in SmartHQ App(Comfort/Laundry and so on)
 
     * 1B Appstore Facilitator
 
     * 1B Korea Hackathon
-       - Won 2nd prize for the second
-       - Won 3rd prize for the third
+        - Won 2nd prize for the second
+        - Won 3rd prize for the third
 
 - 01, 2017 - 01-2019 : [Bankmedia Inc.](https://bankmedia.co.kr/)(Seoul, South Korea / Mobile Application Developer)
-    - Developed both of Android and iOS applications which has 200K monthly active users. Built app for downloading and playing video. Converted Objective-C project to Swift.
+    * file storage/sharing service operates by Bankmedia.
+    * Developing Android and iOS applications which has 200K monthly active users maintaining 99.9% crash-free. 
+        - Building android and iOS app to play and download video file.
+        - Converting Objective-C project to Swift.
+        - FCM / In app purchase (Android-onestore/iOS-app store)
+        - Building web-app
     
 - 09, 2014 - 11, 2014 : [Croatia Motorways Company(HAC)](http://hac.hr/en)(Zagreb, Croatia / Intern)
     - Tollgate server and toll collection system maintenance, and device management
