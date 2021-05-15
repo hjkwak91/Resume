@@ -5,7 +5,7 @@
 
 ## Who am I
 
-MMobile Application Developer.
+Mobile Application Developer.
 I enjoy learning by experimenting a new technology and solving problems. I like to challenge myself to improve at everything I do.
 
 Experience
